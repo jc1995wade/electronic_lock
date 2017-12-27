@@ -1,0 +1,15 @@
+.\objects\hard_led.o: ..\Hardware\src\hard_led.c
+.\objects\hard_led.o: ..\Hardware\inc\hard_led.h
+.\objects\hard_led.o: ..\Libraries\CMSIS\stm32f10x.h
+.\objects\hard_led.o: ..\Libraries\CMSIS\core_cm3.h
+.\objects\hard_led.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\hard_led.o: ..\Libraries\CMSIS\system_stm32f10x.h
+.\objects\hard_led.o: ..\User\stm32f10x_conf.h
+.\objects\hard_led.o: ..\Libraries\FWlib\inc\stm32f10x_flash.h
+.\objects\hard_led.o: ..\Libraries\CMSIS\stm32f10x.h
+.\objects\hard_led.o: ..\Libraries\FWlib\inc\stm32f10x_gpio.h
+.\objects\hard_led.o: ..\Libraries\FWlib\inc\stm32f10x_rcc.h
+.\objects\hard_led.o: ..\Libraries\FWlib\inc\stm32f10x_usart.h
+.\objects\hard_led.o: ..\User\inc\cmd.h
+.\objects\hard_led.o: ..\Hardware\inc\hard_usart.h
+.\objects\hard_led.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

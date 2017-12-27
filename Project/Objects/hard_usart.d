@@ -1,0 +1,14 @@
+.\objects\hard_usart.o: ..\Hardware\src\hard_usart.c
+.\objects\hard_usart.o: ..\Hardware\inc\hard_usart.h
+.\objects\hard_usart.o: ..\Libraries\CMSIS\stm32f10x.h
+.\objects\hard_usart.o: ..\Libraries\CMSIS\core_cm3.h
+.\objects\hard_usart.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\hard_usart.o: ..\Libraries\CMSIS\system_stm32f10x.h
+.\objects\hard_usart.o: ..\User\stm32f10x_conf.h
+.\objects\hard_usart.o: ..\Libraries\FWlib\inc\stm32f10x_flash.h
+.\objects\hard_usart.o: ..\Libraries\CMSIS\stm32f10x.h
+.\objects\hard_usart.o: ..\Libraries\FWlib\inc\stm32f10x_gpio.h
+.\objects\hard_usart.o: ..\Libraries\FWlib\inc\stm32f10x_rcc.h
+.\objects\hard_usart.o: ..\Libraries\FWlib\inc\stm32f10x_usart.h
+.\objects\hard_usart.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\hard_usart.o: ..\Libraries\FWlib\inc\misc.h

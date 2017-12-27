@@ -1,0 +1,15 @@
+.\objects\cmd.o: ..\User\src\cmd.c
+.\objects\cmd.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\cmd.o: ..\User\inc\cmd.h
+.\objects\cmd.o: ..\Hardware\inc\hard_usart.h
+.\objects\cmd.o: ..\Libraries\CMSIS\stm32f10x.h
+.\objects\cmd.o: ..\Libraries\CMSIS\core_cm3.h
+.\objects\cmd.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\cmd.o: ..\Libraries\CMSIS\system_stm32f10x.h
+.\objects\cmd.o: ..\User\stm32f10x_conf.h
+.\objects\cmd.o: ..\Libraries\FWlib\inc\stm32f10x_flash.h
+.\objects\cmd.o: ..\Libraries\CMSIS\stm32f10x.h
+.\objects\cmd.o: ..\Libraries\FWlib\inc\stm32f10x_gpio.h
+.\objects\cmd.o: ..\Libraries\FWlib\inc\stm32f10x_rcc.h
+.\objects\cmd.o: ..\Libraries\FWlib\inc\stm32f10x_usart.h
+.\objects\cmd.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
